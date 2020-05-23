@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+Disallow: /diary/
+
+Sitemap: https://dragondyt.tk/sitemap.xml
+Sitemap: https://dragondyt.tk/baidusitemap.xml
